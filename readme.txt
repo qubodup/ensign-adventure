@@ -34,7 +34,7 @@ threemore.ogg
   http://janaleinweber.de
 
 blasted.ogg
-  Iwan 'qubodup' Gabovitch http://qubodup.net
+  qubodup https://github.com/qubodup
 
 onemore.ogg
 twomore.ogg
